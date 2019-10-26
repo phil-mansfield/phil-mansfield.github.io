@@ -11,9 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Astronomy & Astrophysics, University of Chicago, 2020 (Expected)
+* B.S. in Physics, Carnegie Mellon University, 2014
+
+Fellowships and Awards
+======
+
+* William Rainey Harper Dissertation Fellowship, 2019-2020
+* McCormick Fellowship, 2014 - 2016
+* Richard E. Cutkosky Award, 2014
+
+Publications
+======
+
+Publications in Preparation
+======
+
+Teaching and Mentoring
+======
+
+Outreach
+======
+
+Public Codes and Libraries
+======
+
+Conference Talks and Seminars
+======
 
 Work experience
 ======
