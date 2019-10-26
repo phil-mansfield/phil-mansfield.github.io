@@ -10,74 +10,38 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+----
 * Ph.D in Astronomy & Astrophysics, University of Chicago, 2020 (Expected)
+    * Advisor: _Andrey Kravtsov_
+    * Thesis Topic: _The Joint Likelihood of the Local Planes of Satellites_
 * B.S. in Physics, Carnegie Mellon University, 2014
+    * _University Honors_
 
 Fellowships and Awards
-======
+------
 
 * William Rainey Harper Dissertation Fellowship, 2019-2020
 * McCormick Fellowship, 2014 - 2016
 * Richard E. Cutkosky Award, 2014
 
 Publications
-======
+------
+
+1. *Mansfield, P.*, & Kravtsov, A. V., _The Three Causes of Low-Mass Assembly Bias_, 2019, in review, arXiv:1902.00030, [ADS link](https://ui.adsabs.harvard.edu/abs/2019arXiv190200030M/abstract)
 
 Publications in Preparation
-======
+------
+
+1. *Neuzil, M., Mansfield, P.*, Kravtsov, A., _Judged by the Council of Giants I: The Structure of the Local Volume_
 
 Teaching and Mentoring
-======
+------
 
 Outreach
-======
+------
 
 Public Codes and Libraries
-======
+------
 
 Conference Talks and Seminars
-======
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+------
