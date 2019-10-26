@@ -27,12 +27,14 @@ Fellowships and Awards
 Publications
 ------
 
-1. *Mansfield, P.*, & Kravtsov, A. V., _The Three Causes of Low-Mass Assembly Bias_, 2019, in review, arXiv:1902.00030, [ADS link](https://ui.adsabs.harvard.edu/abs/2019arXiv190200030M/abstract)
+1. **Mansfield, P.**, & Kravtsov, A. V., _The Three Causes of Low-Mass Assembly Bias_, 2019, in review, arXiv:1902.00030, [ADS link](https://ui.adsabs.harvard.edu/abs/2019arXiv190200030M/abstract)
+
+2. Diemer, B., **Mansfield, P.**, Kravtsov, A. V., & More, S., _The Splashback Radius of Halos from Particle Dynamics. II. Dependence on Mass, Accretion Rate, Redshift, and Cosmology_, 2017, ApJ, 843, 140, [ADS link](https://ui.adsabs.harvard.edu/abs/2017ApJ...843..140D/abstract)
 
 Publications in Preparation
 ------
 
-1. *Neuzil, M., Mansfield, P.*, Kravtsov, A., _Judged by the Council of Giants I: The Structure of the Local Volume_
+1. **Neuzil, M., Mansfield, P.**, Kravtsov, A., _Judged by the Council of Giants I: The Structure of the Local Volume_
 
 Teaching and Mentoring
 ------
