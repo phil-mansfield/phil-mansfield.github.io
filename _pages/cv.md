@@ -31,13 +31,30 @@ Publications
 
 2. Diemer, B., **Mansfield, P.**, Kravtsov, A. V., & More, S., _The Splashback Radius of Halos from Particle Dynamics. II. Dependence on Mass, Accretion Rate, Redshift, and Cosmology_, 2017, ApJ, 843, 140, [ADS link](https://ui.adsabs.harvard.edu/abs/2017ApJ...843..140D/abstract)
 
+3. **Mansfield, P.**, Kravtsov, A. V., & Diemer, B., _Splashback Shells of Cold Dark Matter Halos_, 2017, ApJ, 841, 34 [ADS link](https://ui.adsabs.harvard.edu/abs/2017ApJ...841...34M/abstract)
+
+4. Trac, H., Cen, R., & **Mansfield, P.**, _SCORCH I: The Galaxy-Halo Connection in the First Billion Years_, 2015, ApJ, 813, 54, [ADS link](https://ui.adsabs.harvard.edu/abs/2015ApJ...813...54T/abstract)
+
+5. Matty, M., **Mansfield, P.**, Hallinen, K., Albert, J., Swendsen, R., _Cluster simulations of multi- spin Potts models_, 2015, JSTAT, 1, 1026 ADS link [JSTAT link](https://iopscience.iop.org/article/10.1088/1742-5468/2015/01/P01026/meta)
+
 Publications in Preparation
 ------
 
 1. **Neuzil, M., Mansfield, P.**, Kravtsov, A., _Judged by the Council of Giants I: The Structure of the Local Volume_
 
+2. **Mansfield, P.**, Avestruz, C., _The Systematic Uncertainty in Dark Matter Halo Properties_
+
+3. **Mansfield, P.**, Minnow I: _A Compression Algorithm for Galaxy Survey Catalogues_
+
 Teaching and Mentoring
 ------
+
+* Research mentor for Maria Neuzil (2018 - Present)
+    * University of St. Thomas undergrad
+
+
+* KICP Space Explorers Instructor, University of Chicago (2016 - 2017)
+    * Designed and taught year-long high school physics class. Class culminated with the launch of student- built experiments on a weather balloon.
 
 Outreach
 ------
