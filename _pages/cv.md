@@ -20,14 +20,15 @@ Education
 Fellowships and Awards
 ------
 
-* William Rainey Harper Dissertation Fellowship, 2019-2020
+* James Cronin Graduate Student Fellowship, 2019 - 2020
+* William Rainey Harper Dissertation Fellowship, 2019 - 2020
 * McCormick Fellowship, 2014 - 2016
 * Richard E. Cutkosky Award, 2014
 
 Publications
 ------
 
-My papers can also be found on [ADS](https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FMansfield%2C%20P%2FMansfield%2C%20Philip%22&filter_database_fq_database=OR&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FMansfield%2C%20P%2FMansfield%2C%20Philip%22)&fq_database=(database%3A%22astronomy%22)&q=author%3A(%22mansfield%2C%20philip%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0) and [Google scholar](https://scholar.google.com/citations?user=DcN3RwQAAAAJ&hl=en&oi=ao).
+My papers can also be found on [ADS](adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1987NuPhB.286..429L&link_type=EJOURNAL) and [Google scholar](https://scholar.google.com/citations?user=DcN3RwQAAAAJ&hl=en&oi=ao).
 
 1. **Mansfield, P.**, & Kravtsov, A. V., _The Three Causes of Low-Mass Assembly Bias_, 2019, in review, arXiv:1902.00030, [ADS link](https://ui.adsabs.harvard.edu/abs/2019arXiv190200030M/abstract)
 
@@ -82,9 +83,6 @@ Outreach
      * [The Physics of Toys](https://kicp.uchicago.edu/events/kicp_yerkes.html#id_959) (2017)
      * [Up and Down](https://kicp.uchicago.edu/events/kicp_yerkes.html#id_858) (2016)
      
-
-     
-
 * Astronomy Conversations Presenter, Adler Planetarium (2014 - 2016)
     * _Monthly presentations on astronomy to planetarium visitors._
 
