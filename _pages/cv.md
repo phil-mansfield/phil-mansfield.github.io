@@ -28,7 +28,7 @@ Fellowships and Awards
 Publications
 ------
 
-My papers can also be found on [ADS](adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1987NuPhB.286..429L&link_type=EJOURNAL) and [Google scholar](https://scholar.google.com/citations?user=DcN3RwQAAAAJ&hl=en&oi=ao).
+My papers can also be found on [ADS](https://ui.adsabs.harvard.edu/public-libraries/3Xkc2AFESfOHmHW0jSgPEg) and [Google scholar](https://scholar.google.com/citations?user=DcN3RwQAAAAJ&hl=en&oi=ao).
 
 1. **Mansfield, P.**, & Kravtsov, A. V., _The Three Causes of Low-Mass Assembly Bias_, 2019, in review, arXiv:1902.00030, [ADS link](https://ui.adsabs.harvard.edu/abs/2019arXiv190200030M/abstract)
 
