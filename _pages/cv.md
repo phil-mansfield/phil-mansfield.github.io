@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+A PDF version of this CV can be found [here](phil-mansfield.github.io/files/Philip_Mansfield_CV.pdf).
+
 Education
 ----
 * Ph.D in Astronomy & Astrophysics, University of Chicago, 2020 (Expected)
