@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A PDF version of this CV can be found [here](https://phil-mansfield.github.io/files/example.pdf).
+A PDF version of this CV can be found [here](https://phil-mansfield.github.io/files/Philip_Mansfield_CV.pdf).
 
 Education
 ----
