@@ -32,24 +32,26 @@ Publications
 
 My papers can also be found on [ADS](https://ui.adsabs.harvard.edu/public-libraries/3Xkc2AFESfOHmHW0jSgPEg) and [Google scholar](https://scholar.google.com/citations?user=DcN3RwQAAAAJ&hl=en&oi=ao).
 
-1. **Mansfield, P.**, & Kravtsov, A. V., _The Three Causes of Low-Mass Assembly Bias_, 2019, in review, arXiv:1902.00030, [ADS link](https://ui.adsabs.harvard.edu/abs/2019arXiv190200030M/abstract)
+1. **Neuzil, M.\*, Mansfield, P.**, Kravtsov, A., _Judged by the Council of Giants I: The Structure of the Local Volume_, in review, arxiv:1912.04307, [ADS link](https://ui.adsabs.harvard.edu/abs/2019arXiv191204307N/abstract)
 
-2. Diemer, B., **Mansfield, P.**, Kravtsov, A. V., & More, S., _The Splashback Radius of Halos from Particle Dynamics. II. Dependence on Mass, Accretion Rate, Redshift, and Cosmology_, 2017, ApJ, 843, 140, [ADS link](https://ui.adsabs.harvard.edu/abs/2017ApJ...843..140D/abstract)
+2. **Mansfield, P.**, & Kravtsov, A. V., _The Three Causes of Low-Mass Assembly Bias_, 2019, in review, arXiv:1902.00030, [ADS link](https://ui.adsabs.harvard.edu/abs/2019arXiv190200030M/abstract)
 
-3. **Mansfield, P.**, Kravtsov, A. V., & Diemer, B., _Splashback Shells of Cold Dark Matter Halos_, 2017, ApJ, 841, 34 [ADS link](https://ui.adsabs.harvard.edu/abs/2017ApJ...841...34M/abstract)
+3. Diemer, B., **Mansfield, P.**, Kravtsov, A. V., & More, S., _The Splashback Radius of Halos from Particle Dynamics. II. Dependence on Mass, Accretion Rate, Redshift, and Cosmology_, 2017, ApJ, 843, 140, [ADS link](https://ui.adsabs.harvard.edu/abs/2017ApJ...843..140D/abstract)
 
-4. Trac, H., Cen, R., & **Mansfield, P.**, _SCORCH I: The Galaxy-Halo Connection in the First Billion Years_, 2015, ApJ, 813, 54, [ADS link](https://ui.adsabs.harvard.edu/abs/2015ApJ...813...54T/abstract)
+4. **Mansfield, P.**, Kravtsov, A. V., & Diemer, B., _Splashback Shells of Cold Dark Matter Halos_, 2017, ApJ, 841, 34 [ADS link](https://ui.adsabs.harvard.edu/abs/2017ApJ...841...34M/abstract)
 
-5. Matty, M., **Mansfield, P.**, Hallinen, K., Albert, J., Swendsen, R., _Cluster simulations of multi- spin Potts models_, 2015, JSTAT, 1, 1026 ADS link [JSTAT link](https://iopscience.iop.org/article/10.1088/1742-5468/2015/01/P01026/meta)
+5. Trac, H., Cen, R., & **Mansfield, P.**, _SCORCH I: The Galaxy-Halo Connection in the First Billion Years_, 2015, ApJ, 813, 54, [ADS link](https://ui.adsabs.harvard.edu/abs/2015ApJ...813...54T/abstract)
+
+6. Matty, M., **Mansfield, P.**, Hallinen, K., Albert, J., Swendsen, R., _Cluster simulations of multi- spin Potts models_, 2015, JSTAT, 1, 1026 ADS link [JSTAT link](https://iopscience.iop.org/article/10.1088/1742-5468/2015/01/P01026/meta)
+
+\* I am the primary research mentor for this student.
 
 Publications in Preparation
 ------
 
-1. **Neuzil, M., Mansfield, P.**, Kravtsov, A., _Judged by the Council of Giants I: The Structure of the Local Volume_
+1. **Mansfield, P.**, Avestruz, C., _The Systematic Uncertainty in Dark Matter Halo Properties_
 
-2. **Mansfield, P.**, Avestruz, C., _The Systematic Uncertainty in Dark Matter Halo Properties_
-
-3. **Mansfield, P.**, Minnow I: _A Compression Algorithm for Galaxy Survey Catalogues_
+2. **Mansfield, P.**, Minnow I: _A Compression Algorithm for Galaxy Survey Catalogues_
 
 Teaching and Mentoring
 ------
