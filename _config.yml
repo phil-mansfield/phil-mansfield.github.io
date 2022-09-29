@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Philip Mansfield"
 title_separator          : "-"
 name                     : &name "Philip Mansfield"
-description              : &description "Graduate Student at the University of Chicago"
+description              : &description "KIPAC Fellow"
 url                      : https://phil-mansfield.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "phil-mansfield.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Philip Mansfield"
   avatar           : "yerkes_winter_institute_cropped.jpg"
-  bio              : "Cosmologist and Computational Astrophysicist"
+  bio              : "Computational Astrophysicist"
   location         : 
-  employer         : University of Chicago
+  employer         : Stanford University
   pubmed           : 
-  googlescholar    : https://scholar.google.com/citations?user=DcN3RwQAAAAJ&hl=en&oi=ao
+  googlescholar    : 
   email            :
   researchgate     :  
   uri              :
