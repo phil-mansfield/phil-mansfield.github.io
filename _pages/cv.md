@@ -13,15 +13,17 @@ A PDF version of this CV can be found [here](https://phil-mansfield.github.io/fi
 
 Education
 ----
-* Ph.D in Astronomy & Astrophysics, University of Chicago, 2020 (Expected)
+* Ph.D in Astronomy & Astrophysics, University of Chicago, 2020
     * Advisor: _Andrey Kravtsov_
-    * Thesis Topic: _The Joint Likelihood of the Local Planes of Satellites_
+    * Thesis Topic: _Dark Matter Halos and Their Environments_
 * B.S. in Physics, Carnegie Mellon University, 2014
     * _University Honors_
 
 Fellowships and Awards
 ------
 
+* Kipac Fellowship, 2020 - 2023
+* Sugarman Award, 2020
 * James Cronin Graduate Student Fellowship, 2019 - 2020
 * William Rainey Harper Dissertation Fellowship, 2019 - 2020
 * McCormick Fellowship, 2014 - 2016
@@ -30,35 +32,62 @@ Fellowships and Awards
 Publications
 ------
 
-My papers can also be found on [ADS](https://ui.adsabs.harvard.edu/public-libraries/3Xkc2AFESfOHmHW0jSgPEg) and [Google scholar](https://scholar.google.com/citations?user=DcN3RwQAAAAJ&hl=en&oi=ao).
+My papers can also be found on [ADS](https://ui.adsabs.harvard.edu/public-libraries/3Xkc2AFESfOHmHW0jSgPEg).
 
-1. **Neuzil, M.\*, Mansfield, P.**, Kravtsov, A., _Judged by the Council of Giants I: The Structure of the Local Volume_, in review, arxiv:1912.04307, [ADS link](https://ui.adsabs.harvard.edu/abs/2019arXiv191204307N/abstract)
+1. Nadler, E., **Mansfield, P.**, Wang, Y., Du, X., Adhikari, S.; Banerjee, Arka., Benson, An., Darragh-Ford, E., Mao, Y., Wagner-Carena, S., Wechsler, R., Wu, H., _Symphony: Cosmological Zoom-in Simulation Suites over Four Decades of Host Halo Mass, 2022_, in review, [ADS link](https://ui.adsabs.harvard.edu/abs/2022arXiv220902675N/abstract)
 
-2. **Mansfield, P.**, & Kravtsov, A. V., _The Three Causes of Low-Mass Assembly Bias_, 2019, in review, arXiv:1902.00030, [ADS link](https://ui.adsabs.harvard.edu/abs/2019arXiv190200030M/abstract)
+2. Chen, H., Gnedin, N., **Mansfield, P.**, _Approximating Density Probability Distribution Functions Across Cosmologies_, 2022, ApJ, 929(2), 135, [ADS link](https://ui.adsabs.harvard.edu/abs/2022ApJ...929..135C/abstract)
 
-3. Diemer, B., **Mansfield, P.**, Kravtsov, A. V., & More, S., _The Splashback Radius of Halos from Particle Dynamics. II. Dependence on Mass, Accretion Rate, Redshift, and Cosmology_, 2017, ApJ, 843, 140, [ADS link](https://ui.adsabs.harvard.edu/abs/2017ApJ...843..140D/abstract)
+3. **Mansfield, P.**, Avestruz, C., _How Biased Are Halo Properties in Cosmological Simulations?_, 2021, MNRAS, 500(3), 3309, [ADS link](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.3309M/abstract)
 
-4. **Mansfield, P.**, Kravtsov, A. V., & Diemer, B., _Splashback Shells of Cold Dark Matter Halos_, 2017, ApJ, 841, 34 [ADS link](https://ui.adsabs.harvard.edu/abs/2017ApJ...841...34M/abstract)
+4. He, Y., **Mansfield**, P., Rau, M., P., Trac, H., Battaglia, N., _Debiased Galaxy Cluster Pressure Profiles from X-ray Observations and Simulations_, 2021, ApJ, Volume 908(1), 91, [ADS link](https://ui.adsabs.harvard.edu/abs/2021ApJ...908...91H/abstract)
 
-5. Trac, H., Cen, R., & **Mansfield, P.**, _SCORCH I: The Galaxy-Halo Connection in the First Billion Years_, 2015, ApJ, 813, 54, [ADS link](https://ui.adsabs.harvard.edu/abs/2015ApJ...813...54T/abstract)
+5. **Neuzil, M.\*, Mansfield, P.**, Kravtsov, A., _The Sheet of Giants: Unusual properties of the Milky Way's immediate neighbourhood_, 2020, MNRAS, 494, 2600, [ADS link](https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.2600N/abstract)
 
-6. Matty, M., **Mansfield, P.**, Hallinen, K., Albert, J., Swendsen, R., _Cluster simulations of multi- spin Potts models_, 2015, JSTAT, 1, 1026 ADS link [JSTAT link](https://iopscience.iop.org/article/10.1088/1742-5468/2015/01/P01026/meta)
+6. **Mansfield, P.**, & Kravtsov, A. V., _The Three Causes of Low-Mass Assembly Bias_, 2019, 2020, MNRAS, 493, 4763, [ADS link](https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.4763M/abstract)
 
-\* I am the primary research mentor for this student.
+7. Diemer, B., **Mansfield, P.**, Kravtsov, A. V., & More, S., _The Splashback Radius of Halos from Particle Dynamics. II. Dependence on Mass, Accretion Rate, Redshift, and Cosmology_, 2017, ApJ, 843, 140, [ADS link](https://ui.adsabs.harvard.edu/abs/2017ApJ...843..140D/abstract)
+
+8. **Mansfield, P.**, Kravtsov, A. V., & Diemer, B., _Splashback Shells of Cold Dark Matter Halos_, 2017, ApJ, 841, 34 [ADS link](https://ui.adsabs.harvard.edu/abs/2017ApJ...841...34M/abstract)
+
+9. Trac, H., Cen, R., & **Mansfield, P.**, _SCORCH I: The Galaxy-Halo Connection in the First Billion Years_, 2015, ApJ, 813, 54, [ADS link](https://ui.adsabs.harvard.edu/abs/2015ApJ...813...54T/abstract)
+
+10. Matty, M., **Mansfield, P.**, Hallinen, K., Albert, J., Swendsen, R., _Cluster simulations of multi- spin Potts models_, 2015, JSTAT, 1, 1026 ADS link [JSTAT link](https://iopscience.iop.org/article/10.1088/1742-5468/2015/01/P01026/meta)
+
+\* I am the primary research mentor for this student on this project.
 
 Publications in Preparation
 ------
 
-1. **Mansfield, P.**, Avestruz, C., _The Systematic Uncertainty in Dark Matter Halo Properties_
+1. **Mansfield, P.**, Abel, T., _Guppy I: A code for reducing the size of cosmological simulations by an
+order of magnitude_
 
-2. **Mansfield, P.**, Minnow I: _A Compression Algorithm for Galaxy Survey Catalogues_
+2. **Mendoza I.\*\***, **Mansfield, P.**, Wang, K., Avestruz, C.  _MultiCAM: Connecting Halo Properties with their Accretion Histories_
+
+3. **Mansfield, P.**, Darragh-Ford, E., Nadler, E., Wang, Y., Wechsler, R. _The Surprising Durability of Simulated Dark Matter Haloes_
+
+4. **Zhang, B.\***, **Mansfield, P.**, Wechsler, R., _The Connection Between Satellite Disruption and Subhalo Disruption in Illustris-TNG_
+
+5. **Mansfield, P.**, Darragh-Ford, E., Nadler, E., Wang, Y., Wechsler, R. _The Impact of The Galaxy-Halo Connection of Galactic Stellar Haloes_
+
+\* I am the co-mentor for this student.
+
+\*\* I am the primary research mentor for this student on this project.
 
 Teaching and Mentoring
 ------
-
-* Research mentor for Maria Neuzil (2018 - Present)
-    * _University of St. Thomas undergrad_
     
+* Research mentor for seven undergraduate and graduate student projects (2018 - present)
+     *  _Maria Neuzil (University of St. Thomas; undergraduate)_
+     *  _Ismael Mendoza (University of Michigan; graduate student; co-mentored with Camille Avestruz)_
+     *  _Lindsey Payne (Stanford University; under- graduate)_
+     *  _Sebastian Wagner-Carena (Stanford University; graduate student)_
+     *  _Boxin Zhang (Stanford University; undergraduate)_
+     *  _Althea Hudson (Stanford University, undergraduate)_
+     *  _Elise Darragh-Ford (Stanford University; graduate student)_
+
+* Co-instructor of PHYSICS 16, Stanford University (2022)
+     * _Co-instructed PHYSICS 16: The Origin and Development of the Cosmos, an introductory astronomy course on cosmology and galaxies for non-majors alongside Risa Wechsler. Split responsibility for lec- ture/active learning sessions, developed assignments, exams, projects, and rubrics._
 
 * KICP Space Explorers Instructor, University of Chicago (2016 - 2017)
     * _Designed and taught year-long high school physics class. Class culminated with the launch of student-built experiments on a weather balloon._
@@ -74,6 +103,9 @@ Teaching and Mentoring
 
 Outreach
 ------
+
+* Stanford University (2020 - present)
+    * _Various outreach activities once to twice a month, ranging from speaking in classrooms, to giving talks for amateur astronomy societies, to star-gazing parties._
 
 * Office of Special Programs Tutor, University of Chicago (2017 - 2019)
     * _Weekly math, physics, and computer science tutoring for low-income and first generation high school students._
@@ -93,9 +125,12 @@ Outreach
 Public Codes and Libraries
 ------
 
-* [Minnow](github.com/phil-mansfield/minnow), (2019)
-     * _A compression algorithm for galaxy survey catalogs and simulation data_
-     
+* [Guppy](github.com/phil-mansfield/guppy), (2022),
+     * _A compression algorithm for N-body simulation data_
+
+* [Symlib](phil-mansfield.github.io/symphony/build/html/index.html), (2022)
+     * _A publicly accessible code base which makes working with simulated dark matter halo data more student- friendly. Written for the Symphony simulation suite._
+  
 * [Shellfish](github.com/phil-mansfield/shellfish), (2017)
      * _An algorithm for finding the splashback edge of dark matter halos in simulations_
 
@@ -107,26 +142,23 @@ I have also written many open source libraries and research tools, ranging from 
 Conference Talks and Seminars
 ------
 
+* The Galaxy-Halo Connection Across Cosmic Time (2020)
+  * KITP, University of California
+
 * Berkeley Cosmology Seminar (2019)
   * University of California, Berkeley
-  * _Why Dark Matter Halos Die Together_
 
 * KIPAC Cosmology Seminar (2019)
   * KIPAC, Stanford University, Stanford
-  * _Why Dark Matter Halos Die Together_
 
 * Halo and Galaxy Assembly Bias - from Theory to Observation (2019)
   * Tsung Dao Lee Institute, Shanghai
-  * _The Many Causes of Low-Mass Assembly Bias?_
 
 * National Science Teachers Association 2018 National Conference (2018)
   * Atlanta, GA
-  * _Deflategate: Critical Thinking and the Ideal Gas Law_
-
+  
 * Quantifying and Understanding the Galaxy–Halo Connection (2017)
   * KITP, University of California, Santa Barbara
-  * _Defining the Splashback Radius_
-
+ 
 * Astronomy & Astrophysics Chalk Talk (2016)
   * University of Chicago, Chicago
-  * _The Looming 'Big Data' Problem of Astrophysical Simulations (And What to Do About It)_
